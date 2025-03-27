@@ -16,28 +16,28 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'MALVIN-XD~htBX2CJC#Nn5n_7ehGoNpODNXFmReb8l9mOOApcA8XW1h0Ai3-m4' 
 //Enter your Jinwoo session id here; must start with MALVIN-XD~
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ' 
+global.botname = process.env.BOT_NAME || 'yamarock-ʙᴏᴛ' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber = process.env.OWNER_NUMBER || '237672114754' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Malvin King' 
+global.ownername = process.env.OWNER_NAME || 'Yamar' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "JINWOO" 
+global.packname = process.env.STICKER_PACK_NAME || "Yamar" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "SUNG" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Yamar" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
@@ -58,13 +58,13 @@ global.plink = process.env.PLINK || "https://www.youtube.com/@malvintech2"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©Jinwoo-ʙᴏᴛ"
+global.wm = process.env.GL_WM || "> ©Yusuf_T"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
   done: '*Done*', 
-  success: '> © ᴊɪɴᴡᴏᴏ-ᴍᴅ ᴜʟᴛʀᴀ', 
+  success: '> © Yamarock-ᴍᴅ ᴜʟᴛʀᴀ', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
