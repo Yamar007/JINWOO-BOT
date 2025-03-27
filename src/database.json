@@ -2,7 +2,7 @@
   "chats": {},
   "settings": {
     "prefix": ".",
-    "mode": "public",
+    "mode": "private",
     "autobio": false,
     "anticall": false,
     "chatbot": false,
@@ -11,16 +11,17 @@
     "welcome": false,
     "antiedit": "private",
     "menustyle": "3",
-    "statusemoji": "🧡",
+    "statusemoji": "",
     "autoreact": false,
     "autorecord": false,
     "antidelete": "private",
-    "alwaysonline": true,
-    "autoviewstatus": true,
+    "alwaysonline": false,
+    "autoviewstatus": false,
     "autoreactstatus": false,
     "autorecordtype": false
   },
   "blacklist": {
     "blacklisted_numbers": []
-  }
+  },
+  "sudo": [237672114754]
 }
