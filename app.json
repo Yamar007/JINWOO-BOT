@@ -1,5 +1,5 @@
 {
-  "name": "Yamarock-ᴍᴅ",
+  "name": "yamarock237",
   "version": "2.4.0",
   "description": "yamarock, the best WhatsApp Bot",
   "logo": "https://files.catbox.moe/bqs70b.jpg",
@@ -17,7 +17,7 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "yamarock-ʙᴏᴛ",
+      "value": "yamarock237",
       "required": false
     },
     "OWNER_NUMBER": {
