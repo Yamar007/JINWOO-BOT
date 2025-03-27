@@ -1,7 +1,7 @@
 {
-  "name": "ᴊɪɴᴡᴏᴏ-ᴍᴅ",
+  "name": "Yamarock-ᴍᴅ",
   "version": "2.4.0",
-  "description": "Jinwoo, the best WhatsApp Bot",
+  "description": "yamarock, the best WhatsApp Bot",
   "logo": "https://files.catbox.moe/bqs70b.jpg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/kingmalvn/Jinwoo-bot",
@@ -12,32 +12,32 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your Jinwoo session id here; must start with MALVIN-XD~",
-      "value": "",
+      "value": "MALVIN-XD~htBX2CJC#Nn5n_7ehGoNpODNXFmReb8l9mOOApcA8XW1h0Ai3-m4",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "ᴊɪɴᴡᴏᴏ-ʙᴏᴛ",
+      "value": "yamarock-ʙᴏᴛ",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 2637xxxxxxxx",
-      "value": "",
+      "value": "237672114754",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "yamar",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Jin",
+      "value": "yamar",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Jinwoo",
+      "value": "yamar",
       "required": false
     },
     "HEROKU_API_KEY": {
